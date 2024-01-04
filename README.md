@@ -33,3 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alpp0&" alt="alpp0" /></p>
 
+![snake gif](https://github.com/Alpp0/Alpp0/blob/output/github-contribution-grid-snake.gif)
+
