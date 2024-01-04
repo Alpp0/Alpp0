@@ -1,4 +1,4 @@
-[![MasterHead][(https://avatars.githubusercontent.com/u/139857317?s=400&u=298519b41c75196f0ec07a82b798a264a0508046&v=4)](https://media.licdn.com/dms/image/D5616AQH106Ov_0gscw/profile-displaybackgroundimage-shrink_200_800/0/1703354183437?e=2147483647&v=beta&t=Ws25HY3YCI95TtJG3fqbleDpAM8g4vl9mX8k8QXSPUM)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQH106Ov_0gscw/profile-displaybackgroundimage-shrink_200_800/0/1703354183437?e=2147483647&v=beta&t=Ws25HY3YCI95TtJG3fqbleDpAM8g4vl9mX8k8QXSPUM)
 
 <h1 align="center">Hi 👋, I'm ALP EREN</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpp0&label=Profile%20views&color=0e75b6&style=flat" alt="alpp0" /> </p>
