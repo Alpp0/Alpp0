@@ -38,3 +38,94 @@ var developer = new {
 
     Motto = "Code → Improve → Repeat"
 };
+
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=cs,php,java,js,html,css" />
+
+### 🚀 Frameworks & Backend
+<img src="https://skillicons.dev/icons?i=dotnet,laravel,nodejs" />
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+- 📌 **Attendance System (ASP.NET Core)**  
+- 🏠 **Real Estate Appointment App**  
+- 🌐 **Personal Blog Website (PHP + MySQL)**  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&border_radius=10" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&border_radius=10" />
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night" />
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+- 🧩 Advanced ASP.NET Core  
+- 🏗️ Scalable System Architecture  
+- 🤖 Artificial Intelligence (basics)  
+
+---
+
+## 🎯 Fun Facts
+
+- 💪 Fitness yapıyorum  
+- ☕ Kahve = daha iyi kod  
+- 🌙 Gece daha verimli çalışıyorum  
+- 🐛 Bug = feature 😄  
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailin)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Discipline beats motivation."
+
+</div>
+
+```javascript
+while (alive) {
+    code();
+    improve();
+    repeat();
+}
