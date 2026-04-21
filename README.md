@@ -39,7 +39,7 @@ var developer = new {
     Motto = "Code → Improve → Repeat"
 };
 
-⚡ Tech Stack
+## ⚡ Tech Stack
 <div align="center">
 💻 Languages
 <img src="https://skillicons.dev/icons?i=cs,php,java,js,html,css" />
