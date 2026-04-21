@@ -1,24 +1,40 @@
-<h1 align="center">Hi 👋, I'm Alp Eren</h1>
-<h3 align="center">Software Developer from Turkey 🇹🇷</h3>
+<div align="center">
 
-- 🔭 Şu an: Yoklama Sistemi geliştiriyorum
-- 🌱 Öğreniyorum: ASP.NET Core, AI
-- 💬 Bana sor: PHP, Laravel, SQL
-- 📫 Ulaş: mailin
+# 👨‍💻 Alp Eren Kırgilboğa
+
+### 🚀 Software Developer | 💡 Problem Solver | ☕ Coffee Addict
 
 ---
 
-### 🚀 Teknolojiler
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Developer;ASP.NET+Core+Developer;Laravel+Developer;Backend+Focused;Always+Learning+New+Things" />
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-### 🔥 Contribution Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME)
+## 🧠 About Me
+
+```csharp
+var developer = new {
+    Name = "Alp Eren Kırgilboğa",
+    Role = "Software Developer",
+    Location = "Turkey 🇹🇷",
+    Department = "Management Information Systems",
+    CurrentProject = "Attendance System (ASP.NET Core)",
+
+    TechStack = new[] { "C#", "PHP", "Java", "MySQL", "JavaScript" },
+
+    Interests = new[] { 
+        "Backend Development", 
+        "System Design", 
+        "Database Management" 
+    },
+
+    Goal = "Becoming a high-level software developer 🚀",
+
+    Motto = "Code → Improve → Repeat"
+};
