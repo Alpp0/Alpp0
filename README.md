@@ -39,3 +39,16 @@ const developer = {
 
     lifePhilosophy: "Code, Learn, Improve, Repeat"
 };
+
+---
+
+## ⚡ Tech Stack
+<div align="center">
+💻 Languages
+<img src="https://skillicons.dev/icons?i=cs,php,java,js,html,css" />
+🚀 Frameworks & Backend
+<img src="https://skillicons.dev/icons?i=dotnet,laravel,nodejs" />
+🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql" />
+🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,linux,vscode" /> </div>
